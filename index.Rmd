@@ -1,5 +1,5 @@
 --- 
-title: "YOUR TITLE HERE"
+title: "trybook"
 author: "YOUR NAMES HERE"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
